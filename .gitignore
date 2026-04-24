@@ -1,0 +1,16 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.hprof
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Dependency folders
+/lib/
+/dependencies/
